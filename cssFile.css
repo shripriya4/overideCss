@@ -1,3 +1,3 @@
-.cart-item__description{
-    display: none;
-}
+.cart-item__description {
+    display:none !important;
+  }
